@@ -4,7 +4,7 @@
 
  Status | Event   | Date                         | Site  | Topic |
 :------:|:--------|:-----------------------------|:-------|:--------|
- DONE | [talk.js - March][19] | 31 March 2019 (Sun)  | KidLabs | GraphQL - Apollo
+ DONE | [Rabat.js - March][19] | 31 March 2019 (Sun)  | KidLabs | GraphQL - Apollo
 
 
 
@@ -19,7 +19,7 @@ TODO | TODO
 
 ## 🎙 How to propose a talk
 
-There's usually a corresponding [issue](https://github.com/SingaporeJS/talk.js/issues) for each talk.js for the month. 
+There's usually a corresponding [issue](https://github.com/rabatjs/talks/issues)
 To propose a talk simply leave a comment in an issue for that month.
 
 ## 👋 Chat with our community
