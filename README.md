@@ -19,7 +19,7 @@ TODO | TODO
 
 ## 🎙 How to propose a talk
 
-There's usually a corresponding [issue](https://github.com/rabatjs/talks/issues)
+There's usually a corresponding [issue](https://github.com/rabatjs/meetups/issues)
 To propose a talk simply leave a comment in an issue for that month.
 
 ## 👋 Chat with our community
