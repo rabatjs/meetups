@@ -5,6 +5,7 @@
  Status | Event   | Date                         | Site  | Topic |
 :------:|:--------|:-----------------------------|:-------|:--------|
  DONE | [Rabat.js - March][19] | 31 March 2019 (Sun)  | KidLabs | GraphQL - Apollo
+ NEXT | [Rabat.js - April][19] | 17 April 2019 (Wed)  | KidLabs | GraphQL - Apollo
 
 
 
@@ -14,7 +15,10 @@ Check the calendar on our [Meetup page](https://www.meetup.com/Rabat-JS/events/)
 
 Time   | Agenda
 ------ | :-----
-TODO | TODO
+6:15 pm | Doors open
+6:30 pm | Talks begin!
+8:00 pm | Discussions / Neworking
+8:30 pm | See you next time!
 
 
 ## 🎙 How to propose a talk
