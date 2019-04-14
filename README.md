@@ -5,7 +5,7 @@
  Status | Event   | Date                         | Site  | Topic |
 :------:|:--------|:-----------------------------|:-------|:--------|
  DONE | [Rabat.js - March][19] | 31 March 2019 (Sun)  | KidLabs | GraphQL - Apollo
- NEXT | [Rabat.js - April][19] | 17 April 2019 (Wed)  | KidLabs | GraphQL - Apollo
+ NEXT | [Rabat.js - April][19] | 17 April 2019 (Wed)  | KidLabs | Cracking JavaScript Interviews / RxJS
 
 
 
