@@ -7,7 +7,7 @@
  DONE | [Rabat.js - March][19] | 31 March 2019 (Sun)  | KidLabs | GraphQL - Apollo
  DONE | [Rabat.js - April][19] | 17 April 2019 (Wed)  | KidLabs | Cracking JavaScript Interviews / RxJS Intro
  DONE | [Rabat.js - June][19] | 26 June 2019 (Wed)  | KidLabs | Implementing simple RxJS
- NEXT | [Rabat.js - July][19] | 31 July 2019 (Wed)  | KidLabs | ??
+ NEXT | [Rabat.js - July][19] | 31 July 2019 (Wed)  | KidLabs | TypeScript / Vue.js
  
 Check the calendar on our [Meetup page](https://www.meetup.com/Rabat-JS/events/) for all upcoming events.
 
