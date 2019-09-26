@@ -10,7 +10,7 @@
  DONE | [Rabat.js - June 19](https://www.meetup.com/Rabat-js/events/262359710/) | 26 June 2019 (Wed)  | KidLabs | Implementing simple RxJS
  DONE | [Rabat.js - July 19](https://www.meetup.com/Rabat-js/events/263118691/) | 31 July 2019 (Wed)  | KidLabs | TypeScript / Vue.js
  DONE | [Rabat.js - August 19](https://www.meetup.com/Rabat-js/events/263701946/) | 28 August 2019 (Wed) | KidLabs | React Hooks / Vue.js
- NEXT | [Rabat.js - September 19](https://www.meetup.com/Rabat-js/events/264875735/) | 30 September 2019 (Mon) | KidLabs | XX
+ NEXT | [Rabat.js - September 19](https://www.meetup.com/Rabat-js/events/264875735/) | 30 September 2019 (Mon) | KidLabs | Node.js / VSCode
  
 Check the calendar on our [Meetup page](https://www.meetup.com/Rabat-JS/events/) for all upcoming events.
 
