@@ -12,20 +12,10 @@
  DONE | [Rabat.js - August 19](https://www.meetup.com/Rabat-js/events/263701946/) | 28 August 2019 (Wed) | KidLabs | React Hooks / Vue.js
  DONE | [Rabat.js - September 19](https://www.meetup.com/Rabat-js/events/264875735/) | 30 September 2019 (Mon) | KidLabs | Node.js / VSCode
  DONE | [Rabat.js - November 19](https://cfp.devoxx.ma/2019/talk/TMW-8844/Build_a_serverless_real-time_PWA_with_Angular_and_GraphQL) | 14 November 2019 (Thu) | Devoxx Agadir | PWA / Angular / Apollo / GraphQL / AWS Appsync
-  DONE | [Rabat.js - December 19](https://www.meetup.com/Rabat-js/events/267017741) | 21 December 2019 (Sat) | SanadTech | JavaScript Fundamentals / Monorepo Lerna/TS
+  NEXT | [Rabat.js - December 19](https://www.meetup.com/Rabat-js/events/267017741) | 21 December 2019 (Sat) | SanadTech | JavaScript Fundamentals / Monorepo Lerna/TS
 
  
 Check the calendar on our [Meetup page](https://www.meetup.com/Rabat-JS/events/) for all upcoming events.
-
-## 📅 Agenda
-
-Time   | Agenda
------- | :-----
-6:30 pm | Doors open
-6:45 pm | Networking / Food / Energy
-7:00 pm | Talks begin!
-8:30 pm | See you next time!
-
 
 ## 🎙 How to propose a talk
 
