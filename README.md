@@ -1,6 +1,6 @@
 ## A monthly meetup for all things JavaScript, Node.js, and the modern web
 
-## 🗓 Schedule 2019
+## 🗓 Schedule
 
  Status | Event   | Date                         | Site  | Topic |
 :------:|:--------|:-----------------------------|:-------|:--------|
