@@ -14,7 +14,7 @@
  DONE | [Rabat.js - November 19](https://cfp.devoxx.ma/2019/talk/TMW-8844/Build_a_serverless_real-time_PWA_with_Angular_and_GraphQL) | 14 November 2019 (Thu) | Devoxx Agadir | PWA / Angular / Apollo / GraphQL / AWS Appsync
  DONE | [Rabat.js - December 19](https://www.meetup.com/Rabat-js/events/267017741) | 21 December 2019 (Sat) | SanadTech | JavaScript Basics / Monorepo Lerna/TS
  DONE | [Rabat.js - January 20](https://www.meetup.com/Rabat-js/events/267914069) | 25 January 2020 (Sat) | SanadTech | JavaScript Basics / Cypress
-  NEXT | [Rabat.js - February 20](https://www.meetup.com/Rabat-js/events/268821021) | 29 February 2020 (Sat) | TBD | [CFP](https://github.com/rabatjs/meetups/issues/10)
+  DONE | [Rabat.js - February 20](https://www.meetup.com/Rabat-js/events/268821021) | 29 February 2020 (Sat) | High-Tech | Jamstack / SVG
 
  
 Check the calendar on our [Meetup page](https://www.meetup.com/Rabat-JS/events/) for all upcoming events.
