@@ -15,7 +15,7 @@
  DONE | [Rabat.js - December 19](https://www.meetup.com/Rabat-js/events/267017741) | 21 December 2019 (Sat) | SanadTech | JavaScript Basics / Monorepo Lerna/TS
  DONE | [Rabat.js - January 20](https://www.meetup.com/Rabat-js/events/267914069) | 25 January 2020 (Sat) | SanadTech | JavaScript Basics / Cypress
   DONE | [Rabat.js - February 20](https://www.meetup.com/Rabat-js/events/268821021) | 29 February 2020 (Sat) | High-Tech | Jamstack / SVG
-  NEXT | [Morocco.js - March 20](https://www.meetup.com/Morocco-js/events/269511287/) | 28 March 2020 (Sat) | Online
+  NEXT | [Online Meetups](https://www.meetup.com/JavaScript-Morocco/events/269511287/) | ... | Online
 
  
 Check the calendar on our [Meetup page](https://www.meetup.com/Rabat-JS/events/) for all upcoming events.
